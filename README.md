@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/neelimareddy105/Project1/_apis/build/status/neelimayeddula.spark?branchName=master)](https://dev.azure.com/neelimareddy105/Project1/_build/latest?definitionId=1&branchName=master)
 # Apache Spark
 
 Spark is a unified analytics engine for large-scale data processing. It provides
